@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Webster 👋
 
-<!--
-**WebsterFilipe/WebsterFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Federal University of Technology – Paraná, UTFPR (Brazil), learning to build some things in C and improving my English every day.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Computer Engineering student at Federal University of Technology – Paraná (UTFPR).
+-  Currently learning: C programming and computer hardware.
+-  Interested in: Python, Java, TypeScript and JavaScript.
+-  Goal: to build my career in tech with international companies.
+-  Languages: Portuguese (native), English (B1, improving every day), Spanish (B1).
+
+-  ## Tech I use
+
+![C](https://skillicons.dev/icons?i=c)
+
+## 📫 Contact
+
+- Instagram: @yvl.wbs_
+- Email: websterfilipe98@gmail.com
