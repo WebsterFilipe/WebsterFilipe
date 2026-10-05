@@ -4,7 +4,6 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 
 ## About me
 
--  Computer Engineering student at Federal University of Technology – Paraná (UTFPR).
 -  Currently learning: C programming and computer hardware.
 -  Interested in: Python, Java, TypeScript and JavaScript.
 -  Goal: to build my career in tech with international companies.
@@ -16,7 +15,7 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 
 ##  GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=WebsterFilipe&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=WebsterFilipe&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)
 
 ## 📫 Contact
 
