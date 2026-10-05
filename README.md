@@ -14,6 +14,10 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 
 ![C](https://skillicons.dev/icons?i=c)
 
+##  GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=WebsterFilipe&show_icons=true&theme=default)
+
 ## 📫 Contact
 
 - Instagram: @yvl.wbs_
