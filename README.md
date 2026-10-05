@@ -10,13 +10,13 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 -  Goal: to build my career in tech with international companies.
 -  Languages: Portuguese (native), English (B1, improving every day), Spanish (B1).
 
--  ## Tech I use
+## Tech I use
 
 ![C](https://skillicons.dev/icons?i=c)
 
 ##  GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=WebsterFilipe&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=WebsterFilipe&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
