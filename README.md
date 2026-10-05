@@ -11,7 +11,7 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 
 ## Tech I use
 
-![C](https://skillicons.dev/icons?i=c)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff0000)
 
 ##  GitHub Stats
 
