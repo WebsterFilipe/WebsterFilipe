@@ -11,7 +11,7 @@ Computer Engineering student at Federal University of Technology – Paraná, UT
 
 ## Tech I use
 
-![C](https://img.shields.io/badge/C_Programming-000000?style=flat-square&logo=c&logoColor=e11d2e)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff0000)
 
 ##  GitHub Stats
 
